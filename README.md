@@ -1,2 +1,1 @@
-# svg-space-invaders
-svg space invaders, (example use of JS game engine.) 
+![Image of Spave Invaders](https://github.com/splace/svg-space-invaders/blob/master/invaders.svg)
