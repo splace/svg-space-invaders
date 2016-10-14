@@ -73,7 +73,7 @@ function init() {
     document.documentElement.addEventListener('keydown', keyDownHandler, true);
     running = true;
     invaderHorizontal = 1;
-    setInterval(controlLoop, 50);
+    setInterval(controlLoop, 20);
 };
 control = {
     paused: false,
