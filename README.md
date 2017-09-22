@@ -1,4 +1,4 @@
-![Image of Space Invaders](https://github.com/splace/svg-space-invaders/blob/master/invaders.jpeg)
+[![Image of Space Invaders](https://github.com/splace/svg-space-invaders/blob/master/invaders.jpeg)](https://github.com/splace/svg-space-invaders/blob/master/invaders.svg)
 
 19k file, if minified. (10k download if served compressed.)
 
