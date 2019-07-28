@@ -1,3 +1,5 @@
+Click image to play
+
 [![Image of Space Invaders](https://splace.github.io/svg-space-invaders/invaders.jpeg)](https://splace.github.io/svg-space-invaders/invaders.svg)
 
 19k file, if minified. (10k download if served compressed.)
