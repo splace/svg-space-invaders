@@ -4,4 +4,4 @@ Click image to play
 
 19k file, if minified. (10k download if served compressed.)
 
-Code is 10 years old, developed to work in Mozilla (before Firefox existed). (the first available SVG browser). Still all works, +1 for open standards!
+Code is 15 years old, developed to work in Mozilla (before Firefox existed). (the first available SVG browser). Still all works, +1 for open standards!
